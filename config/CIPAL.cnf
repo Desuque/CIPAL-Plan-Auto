@@ -1,0 +1,17 @@
+GRUPO=/home/federico/fiuba/tp-sisop/planauto=federico=sáb abr 30 15:22:00 ART 2016
+BINDIR=/home/federico/fiuba/tp-sisop/planauto/binarios=federico=sáb abr 30 15:22:00 ART 2016
+MAEDIR=/home/federico/fiuba/tp-sisop/planauto/maestros=federico=sáb abr 30 15:22:00 ART 2016
+ARRIDIR=/home/federico/fiuba/tp-sisop/planauto/arribados=federico=sáb abr 30 15:22:00 ART 2016
+OKDIR=/home/federico/fiuba/tp-sisop/planauto/aceptados=federico=sáb abr 30 15:22:00 ART 2016
+PROCDIR=/home/federico/fiuba/tp-sisop/planauto/procesados=federico=sáb abr 30 15:22:00 ART 2016
+PROCDIRV=/home/federico/fiuba/tp-sisop/planauto/procesados/validas=federico=sáb abr 30 15:22:00 ART 2016
+PROCDIRP=/home/federico/fiuba/tp-sisop/planauto/procesados/procesadas=federico=sáb abr 30 15:22:00 ART 2016
+PROCDIRR=/home/federico/fiuba/tp-sisop/planauto/procesados/rechazadas=federico=sáb abr 30 15:22:00 ART 2016
+INFODIR=/home/federico/fiuba/tp-sisop/planauto/informes=federico=sáb abr 30 15:22:00 ART 2016
+LOGDIR=/home/federico/fiuba/tp-sisop/planauto/bitacoras=federico=sáb abr 30 15:22:00 ART 2016
+NOKDIR=/home/federico/fiuba/tp-sisop/planauto/rechazados=federico=sáb abr 30 15:22:00 ART 2016
+LOGSIZE=1000=federico=sáb abr 30 15:22:00 ART 2016
+SLEEPTIME=10=federico=sáb abr 30 15:22:00 ART 2016
+BINFILES=DetenerProceso.sh,GrabarBitacora.sh,LanzarProceso.sh,MoverArchivos.sh,PrepararAmbiente.sh,RecibirOfertas.sh,GenerarSorteo.sh,ProcesarOfertas.sh,DeterminarGanadores.pl=federico=sáb abr 30 15:22:00 ART 2016
+MAEFILES=concesionarios.csv,FechasAdj.csv,grupos.csv,temaL_padron.csv=federico=sáb abr 30 15:22:00 ART 2016
+BACKUPDIR=/home/federico/fiuba/tp-sisop/planauto/resguardo=federico=sáb abr 30 15:22:00 ART 2016
